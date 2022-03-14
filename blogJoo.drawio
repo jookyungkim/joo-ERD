@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-14T14:17:20.177Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="nkA72fwPPr9YHWV6G9Hi" version="16.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-14T14:23:09.111Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.109 Safari/537.36" etag="a7mU89YlaJx8Pe7okKsh" version="16.4.8" type="github">
   <diagram id="KGCnk96XmYYeIFKjJcCO" name="Page-1">
     <mxGraphModel dx="1426" dy="696" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -519,7 +519,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8iOR6LfvwQFqCDU2CXn-97" value="좋아요" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;" vertex="1" parent="C8iOR6LfvwQFqCDU2CXn-95">
+        <mxCell id="C8iOR6LfvwQFqCDU2CXn-97" value="좋아요건수" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;" vertex="1" parent="C8iOR6LfvwQFqCDU2CXn-95">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -532,7 +532,7 @@
             <mxRectangle width="30" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C8iOR6LfvwQFqCDU2CXn-100" value="싫어요" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;" vertex="1" parent="C8iOR6LfvwQFqCDU2CXn-98">
+        <mxCell id="C8iOR6LfvwQFqCDU2CXn-100" value="싫어요건수" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;html=1;" vertex="1" parent="C8iOR6LfvwQFqCDU2CXn-98">
           <mxGeometry x="30" width="150" height="30" as="geometry">
             <mxRectangle width="150" height="30" as="alternateBounds" />
           </mxGeometry>
